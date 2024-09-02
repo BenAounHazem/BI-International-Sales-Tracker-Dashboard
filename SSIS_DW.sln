@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SSIS_Data_Warehouse", "SSIS_DW\SSIS_Data_Warehouse.dtproj", "{EE16037A-F982-4C1C-930A-BC553D03C666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE16037A-F982-4C1C-930A-BC553D03C666}.Development|Default.ActiveCfg = Development
+		{EE16037A-F982-4C1C-930A-BC553D03C666}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D93A79AD-A1FC-4CB3-9804-7F985EEDCF70}
+	EndGlobalSection
+EndGlobal
